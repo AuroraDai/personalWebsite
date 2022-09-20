@@ -1,2 +1,2 @@
 # Personal Website
-![image](https://github.com/AuroraDai/personalWebsite/tree/main/gif)
+![image](https://github.com/AuroraDai/personalWebsite/blob/main/gif/ezgif-5-213c86ceeb.gif)
