@@ -141,7 +141,7 @@ main {
 }
 
 /* snow animation start*/
-/* 3.设置枫叶盒子的基本样式 */
+/* set snow's style */
 .set img {
   height: 20px;
 
@@ -157,28 +157,28 @@ main {
 
 }
 
-/* 对第二个枫叶盒子单独设置样式 */
+/* set2 snow style*/
 
 .set2 {
   transform: scale(2) rotateY(180deg);
   filter: blur(2px);
 }
 
-/* 5.对第三个枫叶盒子单独设置样式 */
+/* set3 snow style */
 
 .set3 {
   transform: scale(0.8) rotateX(180deg);
   filter: blur(4px);
 }
 
-/* 对枫叶图片外侧盒子做样式 */
+/* set container */
 
 .set div {
   position: absolute;
   display: block;
 }
 
-/* 对每一个单独的枫叶盒子做动画和样式修改 */
+/* every single sonw's style */
 .set div:nth-child(1) {
   left: 20%;
   animation: animate 15s linear infinite;
